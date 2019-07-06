@@ -3,3 +3,6 @@ node_modules/
 
 # skip idea files
 .idea/
+
+# skip lock
+package-lock.json
