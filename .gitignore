@@ -1,0 +1,5 @@
+# skip node modules
+node_modules/
+
+# skip idea files
+.idea/
